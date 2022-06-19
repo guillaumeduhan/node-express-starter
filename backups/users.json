@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": "1a7774c8-2e37-4b59-9865-b34271e50f92",
+      "username": "Guillaume",
+      "age": 33
+    },
+    {
+      "id": "eecb77ca-e49b-47c7-9bf1-dd8a209e429f",
+      "username": "Aurelia",
+      "age": 32
+    },
+    {
+      "id": "6eeb6b1c-d3ff-4b14-92c7-e114b8326e03",
+      "username": "Albert",
+      "age": 28
+    }
+  ]
+}
